@@ -1,0 +1,5 @@
+fastapi
+asyncpg
+psycopg2
+pydantic-settings
+sqlmodel
